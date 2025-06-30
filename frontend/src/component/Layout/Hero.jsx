@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link} from 'react-router-dom';
-import heroImg from '../../assets/rabbit-hero.webp';
+import heroImg from '../../assets/Vacation.jpg';
 export const Hero = () => {
   return (
    <section className='relative'>
@@ -16,7 +16,7 @@ flex items-center justify-center'>
 Explore our vaction-ready outfits with fast worldwide shipping.
 
     </p>
-    <Link to='#' className='bg-white text-gray-950 px-6 py-2 rounded-sm text-lg'>
+    <Link to='/collections/all' className='bg-white text-gray-950 px-6 py-2 rounded-sm text-lg'>
     Shop now
     </Link>
 </div>

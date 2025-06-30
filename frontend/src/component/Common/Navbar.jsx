@@ -29,9 +29,17 @@ const Navbar = () => {
       <nav className='container mx-auto flex items-center justify-between py-4 px-6'>
         {/* Logo */}
         <div>
-          <Link to='/' className='text-2xl font-medium'>
+          {/* <Link to='/' className='text-2xl font-medium'>
             Ninja
-          </Link>
+          </Link> */}
+         <Link to="/" className="flex items-center gap-1 text-3xl font-bold text-black">
+  <svg xmlns="http://www.w3.org/2000/svg" className="w-8 h-8 text-black" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-1.293 4.293a1 1 0 00.217.98l.7.7a1 1 0 00.98.217L13 18h5" />
+  </svg>
+  <span className="tracking-tight">Ninja</span>
+</Link>
+
+
         </div>
 
         {/* Center Navigation-links */}

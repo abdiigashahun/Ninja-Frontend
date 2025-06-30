@@ -4,17 +4,17 @@ import { IoLogoInstagram} from 'react-icons/io';
 import { RiTwitterXLine} from 'react-icons/ri';
 const Topbar = () => {
   return (
-    <div className="bg-red-500 text-white">
+    <div className="bg-gray-800 text-white">
       <div className='container mx-auto flex justify-between items-center py-3 px-4'  >
 <div className='hidden md:flex items-center space-x-4'>
 
-    <a href="#" className="hover:text-gray-300">
+    <a href="https://t.me/abdi_mink" target="_blank" className="hover:text-gray-300">
         <TbBrandMeta  className='h-5 w-s'/>
     </a>
-     <a href="#" className="hover:text-gray-300">
+     <a href="https://instagram.com/abdi_mink" target="_blank" className="hover:text-gray-300">
         <IoLogoInstagram  className='h-5 w-s'/>
     </a>
-     <a href="#" className="hover:text-gray-300">
+     <a href="https://twitter.com/abdi_mink" target="_blank" className="hover:text-gray-300">
         <RiTwitterXLine className='h-4 w-4'/>
     </a>
     
