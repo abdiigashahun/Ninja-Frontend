@@ -42,7 +42,7 @@ This frontend is connected to a custom Node.js/Express API deployed on Render:
 
 ## 📁 Folder Structure
 
-```
+
 
 src/
 │
@@ -52,53 +52,48 @@ src/
 ├── assets/           # Images and icons
 └── App.jsx           # Main App structure
 
-````
 
----
+
+
 
 ## 🧪 Getting Started Locally
 
 1. **Clone the repo**
-   ```bash
+  
    git clone https://github.com/abdiigashahun/Ninja.git
    cd frontend
-````
+
 
 2. **Install dependencies**
 
-   ```bash
+   
    npm install
-   ```
+  
 
 3. **Configure environment**
    Create a `.env` file in the root of `frontend/` with:
 
-   ```
+  
    VITE_API_URL=https://ninja-backend-nyf7.onrender.com
-   ```
+
 
 4. **Start development server**
 
-   ```bash
+ 
    npm run dev
-   ```
+
 
 ---
 
 ## 👨‍💻 Developer
 
 **Abdi Gashahun**
-📧 [abdigashahun0@gmail.com](mailto:abdigashahun0@gmail.com)
+📧 abdigashahun0@gmail.com
 🌍 Ethiopia
 
 ---
 
-## 📸 Screenshot
-
-!\[Screenshot]\(./Screenshot\ from\ 2025-07-03\ 16-54-02.png)
-
----
 
 ## 📄 License
 MIT
-```
+
