@@ -5,7 +5,6 @@ A modern, stylish, and responsive e-commerce frontend built with **React**, **Ta
 
 Live Demo 👉 [ninja.vercel.app](https://ninja-h5id-6b5626y6e-abdis-projects-b21e8f4f.vercel.app/)
 
-![Ninja Screenshot](./Screenshot.png)
 
 ---
 
