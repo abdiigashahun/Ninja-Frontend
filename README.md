@@ -1,5 +1,5 @@
 
-# 🛒 Ninja E-Commerce Frontend
+#  Ninja E-Commerce Frontend
 
 A modern, stylish, and responsive e-commerce frontend built with **React**, **Tailwind CSS**, **Redux Toolkit**, and **Axios**.
 
@@ -8,18 +8,18 @@ Live Demo 👉 [ninja.vercel.app](https://ninja-h5id-6b5626y6e-abdis-projects-b2
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔥 Fully responsive e-commerce UI
-- 🎯 Redux Toolkit for state management
-- 📦 Product filtering by category, size, color, brand, and more
-- 🛒 Shopping cart (guest + user)
-- 👤 User authentication and admin panel
-- 📦 Order history and checkout flow
-- 📡 Connected to REST API backend on Render
-- 🌍 Global styles with Tailwind CSS
-- 🔍 Search functionality
-- ✨ Beautiful UI/UX
+-  Fully responsive e-commerce UI
+-  Redux Toolkit for state management
+-  Product filtering by category, size, color, brand, and more
+-  Shopping cart (guest + user)
+-  User authentication and admin panel
+-  Order history and checkout flow
+-  Connected to REST API backend on Render
+-  Global styles with Tailwind CSS
+-  Search functionality
+-  Beautiful UI/UX
 
 ---
 
