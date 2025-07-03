@@ -5,7 +5,7 @@ A modern, stylish, and responsive e-commerce frontend built with **React**, **Ta
 
 Live Demo 👉 [ninja.vercel.app](https://ninja-h5id-6b5626y6e-abdis-projects-b21e8f4f.vercel.app/)
 
-![Ninja Screenshot](./Screenshot.png)
+
 
 ---
 
@@ -88,14 +88,8 @@ src/
 ## 👨‍💻 Developer
 
 **Abdi Gashahun**
-📧 [abdigashahun0@gmail.com](mailto:abdigashahun0@gmail.com)
+📧 abdigashahun0@gmail.com
 🌍 Ethiopia
-
----
-
-## 📸 Screenshot
-
-!\[Screenshot]\(./Screenshot\ from\ 2025-07-03\ 16-54-02.png)
 
 ---
 
@@ -105,7 +99,4 @@ This project is open-source and free to use.
 
 ```
 
----
 
-✅ Let me know if you'd like me to generate one for your backend too or include instructions for deploying on Vercel.
-```
