@@ -5,7 +5,7 @@ A modern, stylish, and responsive e-commerce frontend built with **React**, **Ta
 
 Live Demo 👉 [ninja.vercel.app](https://ninja-h5id-6b5626y6e-abdis-projects-b21e8f4f.vercel.app/)
 
-
+![Ninja Screenshot](./Screenshot.png)
 
 ---
 
@@ -56,50 +56,41 @@ src/
 
 ---
 
-## 🧪 Getting Started Locally
+formatting:
+🧪 Getting Started Locally
 
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/abdiigashahun/Ninja.git
-   cd frontend
-````
+    Clone the repo
 
-2. **Install dependencies**
+git clone https://github.com/abdiigashahun/Ninja.git
+cd frontend
 
-   ```bash
-   npm install
-   ```
-````
+Install dependencies
 
-3. **Configure environment**
-   Create a `.env` file in the root of `frontend/` with:
+npm install
 
-   ```
-   VITE_API_URL=https://ninja-backend-nyf7.onrender.com
-   ```
-````
+Configure environment
+Create a .env file in the root of frontend/ with:
 
-4. **Start development server**
+VITE_API_URL=https://ninja-backend-nyf7.onrender.com
 
-   ```bash
-   npm run dev
-   ```
-````
+Start development server
+
+    npm run dev
 
 ---
 
 ## 👨‍💻 Developer
 
 **Abdi Gashahun**
-📧 abdigashahun0@gmail.com
+📧 [abdigashahun0@gmail.com](mailto:abdigashahun0@gmail.com)
 🌍 Ethiopia
 
 ---
+
 
 ## 📄 License
 
 This project is open-source and free to use.
 
 ```
-
 
