@@ -62,7 +62,7 @@ src/
    ```bash
    git clone https://github.com/abdiigashahun/Ninja.git
    cd frontend
-````
+
 
 2. **Install dependencies**
 
@@ -85,7 +85,7 @@ src/
 
 ---
 
-## 👨‍💻 Developer
+##👨‍💻 Developer
 
 **Abdi Gashahun**
 📧 [abdigashahun0@gmail.com](mailto:abdigashahun0@gmail.com)
