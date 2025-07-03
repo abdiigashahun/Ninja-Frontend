@@ -69,6 +69,7 @@ src/
    ```bash
    npm install
    ```
+````
 
 3. **Configure environment**
    Create a `.env` file in the root of `frontend/` with:
@@ -76,12 +77,14 @@ src/
    ```
    VITE_API_URL=https://ninja-backend-nyf7.onrender.com
    ```
+````
 
 4. **Start development server**
 
    ```bash
    npm run dev
    ```
+````
 
 ---
 
