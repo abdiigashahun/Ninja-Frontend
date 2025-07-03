@@ -56,26 +56,32 @@ src/
 
 ---
 
-formatting:
-🧪 Getting Started Locally
+## 🧪 Getting Started Locally
 
-    Clone the repo
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/abdiigashahun/Ninja.git
+   cd frontend
+````
 
-git clone https://github.com/abdiigashahun/Ninja.git
-cd frontend
+2. **Install dependencies**
 
-Install dependencies
+   ```bash
+   npm install
+   ```
 
-npm install
+3. **Configure environment**
+   Create a `.env` file in the root of `frontend/` with:
 
-Configure environment
-Create a .env file in the root of frontend/ with:
+   ```
+   VITE_API_URL=https://ninja-backend-nyf7.onrender.com
+   ```
 
-VITE_API_URL=https://ninja-backend-nyf7.onrender.com
+4. **Start development server**
 
-Start development server
-
-    npm run dev
+   ```bash
+   npm run dev
+   ```
 
 ---
 
