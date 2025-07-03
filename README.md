@@ -55,7 +55,7 @@ src/
 
 ---
 
-## 🧪 Getting Started Locally
+##  Getting Started Locally
 
 1. **Clone the repo**
    ```bash
@@ -84,7 +84,7 @@ src/
 
 ---
 
-##👨‍💻 Developer
+## Developer
 
 **Abdi Gashahun**
 📧 [abdigashahun0@gmail.com](mailto:abdigashahun0@gmail.com)
@@ -93,9 +93,9 @@ src/
 ---
 
 
-## 📄 License
+##  License
 
-This project is open-source and free to use.
+MIT
 
 ```
 
