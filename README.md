@@ -88,7 +88,7 @@ src/
 ## 👨‍💻 Developer
 
 **Abdi Gashahun**
-📧 (mailto:abdigashahun0@gmail.com)
+📧 [abdigashahun0@gmail.com](mailto:abdigashahun0@gmail.com)
 🌍 Ethiopia
 
 ---
@@ -101,8 +101,11 @@ src/
 
 ## 📄 License
 
-MIT
+This project is open-source and free to use.
 
 ```
 
+---
 
+✅ Let me know if you'd like me to generate one for your backend too or include instructions for deploying on Vercel.
+```
